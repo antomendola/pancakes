@@ -1,4 +1,4 @@
-##Ingredients
+## Ingredients
 
 For pancakes mixture
 -110g plain flavour
@@ -7,7 +7,7 @@ For pancakes mixture
 -200ml milk mixed with 75ml water
 -50g butter
 
-To serve
+## To serve
 -caster sugar
 -lemon juice
 
